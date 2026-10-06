@@ -3,3 +3,5 @@ public enum Tamano {
     MEDIANA,
     GRANDE
 }
+
+//Todo bien igual
